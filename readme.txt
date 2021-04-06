@@ -1,0 +1,1 @@
+Program is easy to use! Just ignore the errors, its just the discord api.
